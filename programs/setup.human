@@ -1,0 +1,35 @@
+HOW TO set up your daily program
+
+# copy the daily_template
+In any text editor, open the file 'daily_template.human' from the 'programs' folder.
+Copy the contents of 'daily_template.human' to the clipboard.
+Create a file called 'daily.human' in the programs folder.
+Open the file 'daily.human' in any text editor.
+Paste the contents of 'daily_template.human' into 'daily.human'.
+
+# make daily.human your own
+read through your new daily.human file
+read the following: daily.human is a human programming language file, meaning it contains instructions for humans, like you.
+read the following: we're soon going to make daily.human your own.
+read the following: it's very important that you feel a sense of ownership of the contents of daily.human. This is your program and it exists only to serve you.
+Consider: This program can instruct you to do anything once per day. What general goal do you want this program to serve?
+Either leave the goal of the program as "have a more fulfilling day", or update line 1 to better represent what you'd like out of the program.
+Consider: When would you like to run your daily program? Set the time of day by replacing '[INSERT time of day]' with a time of day on line 7.
+Consider: What's something you'd like to do every day in order to help achieve your goals?
+replace line 4 of 'daily.human' with a list of clear and specific instructions, one per line, that will help you accomplish what you want to.
+save the file 'daily.human'
+
+# resolve to complete daily.human
+prepare for 3 minutes of unninterrupted reading
+read the following: Human programs only work if you hold yourself very accountable for completing them.
+read the following: So, it is best to only follow a human program if you are certain you will comply.
+read the following: For this reason, it is unwise to follow human programs that were written by another person, unless you trust the other person and have read the program.
+read the following: It's okay for you to trust this setup program, but after you finish setup, you will be 100% responsible for the programs you run.
+read the following: If you'd like more information on compliance and effective human programs, feel free to read more here: https://github.com/dnsosebee/human#how-to-be-an-effective-human-programmer
+read the following: You have personalized your daily.human program, but you may not actually want to follow it.
+read the following: For example, you might not like that it repeats daily, with no termination.
+read the following: On the other hand, you may be fine with the repetition, given that you should always have a way out: the program always asks you to edit itself, so you could edit out the repetition if you believed it wasn't in your best interest.
+review your daily.human program and consider: is this a program I want to follow and could reasonably follow? Feel free to make any changes so that the program is more aligned with your interest.
+if you still don't feel comfortable resolving to complete daily.human, quit this setup program by pressing 'ctrl-c' on your keyboard. Note: if you quit setup, you are always free to try again later, or to write and perform your own programs.
+resolve that when you run daily.human, you will follow the instructions to completion.
+You are done with setup. Now, you have two options: 1. complete daily.human by entering the command 'python human.py programs/daily.human' in terminal. Or, if you prefer, 2. set a reminder to complete the program at another time.
